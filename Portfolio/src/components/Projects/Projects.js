@@ -6,6 +6,7 @@ import spotify from "../../Assets/Projects/spotify.png";
 import E_Commerce from "../../Assets/Projects/e-commerce.png";
 import real from "../../Assets/Projects/realestate.png";
 import Art from "../../Assets/Projects/art.png";
+import clutter from "../../Assets/Projects/clutter.png";
 
 function Projects() {
   return (
@@ -19,6 +20,16 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={clutter}
+              isBlog={false}
+              title="DClutter Project"
+              description="Welcome to DClutter – your go-to platform for buying and selling with ease! Whether you're decluttering your space or searching for hidden gems, DClutter connects you seamlessly. Enjoy a hassle-free experience where transactions are simple, secure, and swift. Start exploring today!"
+              ghLink="https://github.com/davidojo1144/D-Clutter-Project"
+              demoLink="https://d-clutter-project.vercel.app/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={real}
