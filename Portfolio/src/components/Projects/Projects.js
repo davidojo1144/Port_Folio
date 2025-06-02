@@ -31,8 +31,8 @@ function Projects() {
               isBlog={false}
               title="Vomzer Socials"
               description="A decentralized social platform on Sui blockchain, Vomzer reimagines social media by putting ownership back in users' hands. Built on Sui, it transforms likes and shares into on-chain assets—profiles, connections, and content live as immutable blockchain objects. Users earn SUI tokens for engagement while maintaining full control of their data."
-              ghLink="https://github.com/davidojo1144/D-Clutter-Project"
-              demoLink="https://d-clutter-project.vercel.app/"
+              ghLink="https://github.com/davidojo1144/Vomzer_socials"
+              demoLink="https://vomzer-socials.vercel.app/"
             />
           </Col>
 
@@ -42,8 +42,8 @@ function Projects() {
               isBlog={false}
               title="Learn Now"
               description="The interactive learning platform for skill-building, Learn Now empowers users to master new topics through structured courses, quizzes, and progress tracking. Designed for seamless learning, it adapts to individual paces while rewarding milestones to keep users motivated."
-              ghLink="https://github.com/davidojo1144/D-Clutter-Project"
-              demoLink="https://d-clutter-project.vercel.app/"
+              ghLink="https://github.com/davidojo1144/Learn_Now"
+              demoLink="https://learn-now-gamma.vercel.app/"
             />
           </Col>
 
@@ -64,8 +64,8 @@ function Projects() {
               isBlog={false}
               title="Skill Acquisition"
               description="SkillSwap connects learners with local experts by allowing users to post, discover, and trade practical skills. Whether you want to teach photography or learn carpentry, the platform creates a barter-style knowledge economy."
-              ghLink="https://github.com/davidojo1144/D-Clutter-Project"
-              demoLink="https://d-clutter-project.vercel.app/"
+              ghLink="https://github.com/davidojo1144/Talent_showcase_app"
+              demoLink="https://talent-showcase-app.vercel.app/"
             />
           </Col>
 
