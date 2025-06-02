@@ -39,7 +39,7 @@ function AboutCard() {
           </p>
           <footer className="blockquote-footer">Dave</footer>
           <button style={{padding: "10px 20px", background: "purple", color: "white", border: "none", borderRadius: "5px", cursor: "pointer"}}>
-            <a style={{color: "white"}} href="https://drive.google.com/file/d/1VHi_bDmcPPY-gC3CRPBBkYlPfzMWmiTg/view?usp=drivesdk" target="_blank">View Resume</a>
+            <a style={{color: "white"}} href="https://drive.google.com/file/d/1AQd7X_30S4vT7gd_RG2deSj9uKvvGY1w/view?usp=drivesdk" target="blank">View Resume</a>
           </button>
         </blockquote>
       </Card.Body>
