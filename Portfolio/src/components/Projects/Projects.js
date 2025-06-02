@@ -30,7 +30,7 @@ function Projects() {
               imgPath={vomzer}
               isBlog={false}
               title="Vomzer Socials"
-              description="Welcome to DClutter – your go-to platform for buying and selling with ease! Whether you're decluttering your space or searching for hidden gems, DClutter connects you seamlessly. Enjoy a hassle-free experience where transactions are simple, secure, and swift. Start exploring today!"
+              description="A decentralized social platform on Sui blockchain, Vomzer reimagines social media by putting ownership back in users' hands. Built on Sui, it transforms likes and shares into on-chain assets—profiles, connections, and content live as immutable blockchain objects. Users earn SUI tokens for engagement while maintaining full control of their data."
               ghLink="https://github.com/davidojo1144/D-Clutter-Project"
               demoLink="https://d-clutter-project.vercel.app/"
             />
@@ -41,7 +41,7 @@ function Projects() {
               imgPath={learnnow}
               isBlog={false}
               title="Learn Now"
-              description="Welcome to DClutter – your go-to platform for buying and selling with ease! Whether you're decluttering your space or searching for hidden gems, DClutter connects you seamlessly. Enjoy a hassle-free experience where transactions are simple, secure, and swift. Start exploring today!"
+              description="The interactive learning platform for skill-building, Learn Now empowers users to master new topics through structured courses, quizzes, and progress tracking. Designed for seamless learning, it adapts to individual paces while rewarding milestones to keep users motivated."
               ghLink="https://github.com/davidojo1144/D-Clutter-Project"
               demoLink="https://d-clutter-project.vercel.app/"
             />
@@ -52,9 +52,9 @@ function Projects() {
               imgPath={techgiant}
               isBlog={false}
               title="Tech Giant"
-              description="Welcome to DClutter – your go-to platform for buying and selling with ease! Whether you're decluttering your space or searching for hidden gems, DClutter connects you seamlessly. Enjoy a hassle-free experience where transactions are simple, secure, and swift. Start exploring today!"
-              ghLink="https://github.com/davidojo1144/D-Clutter-Project"
-              demoLink="https://d-clutter-project.vercel.app/"
+              description="Techgiant, we are passionate about transforming ideas into impactful digital experiences. Founded with the vision to make quality web and app development accessible to businesses and individuals across Africa, we specialize in creating customized websites and mobile applications that help our clients grow and succeed."
+              ghLink="https://github.com/davidojo1144/Tech_Giant_Africa"
+              demoLink="https://www.techgiant.africa/"
             />
           </Col>
 
@@ -63,7 +63,7 @@ function Projects() {
               imgPath={skillplatform}
               isBlog={false}
               title="Skill Acquisition"
-              description="Welcome to DClutter – your go-to platform for buying and selling with ease! Whether you're decluttering your space or searching for hidden gems, DClutter connects you seamlessly. Enjoy a hassle-free experience where transactions are simple, secure, and swift. Start exploring today!"
+              description="SkillSwap connects learners with local experts by allowing users to post, discover, and trade practical skills. Whether you want to teach photography or learn carpentry, the platform creates a barter-style knowledge economy."
               ghLink="https://github.com/davidojo1144/D-Clutter-Project"
               demoLink="https://d-clutter-project.vercel.app/"
             />
