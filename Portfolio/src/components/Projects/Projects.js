@@ -7,6 +7,11 @@ import E_Commerce from "../../Assets/Projects/e-commerce.png";
 import real from "../../Assets/Projects/realestate.png";
 import Art from "../../Assets/Projects/art.png";
 import clutter from "../../Assets/Projects/clutter.png";
+import vomzer from "../../Assets/Projects/vomzer.png";
+import learnnow from "../../Assets/Projects/learnnow.png";
+import techgiant from "../../Assets/Projects/techgiant.png";
+import skillplatform from "../../Assets/Projects/skillplatform.png";
+
 
 function Projects() {
   return (
@@ -20,6 +25,50 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={vomzer}
+              isBlog={false}
+              title="Vomzer Socials"
+              description="Welcome to DClutter – your go-to platform for buying and selling with ease! Whether you're decluttering your space or searching for hidden gems, DClutter connects you seamlessly. Enjoy a hassle-free experience where transactions are simple, secure, and swift. Start exploring today!"
+              ghLink="https://github.com/davidojo1144/D-Clutter-Project"
+              demoLink="https://d-clutter-project.vercel.app/"
+            />
+          </Col>
+
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={learnnow}
+              isBlog={false}
+              title="Learn Now"
+              description="Welcome to DClutter – your go-to platform for buying and selling with ease! Whether you're decluttering your space or searching for hidden gems, DClutter connects you seamlessly. Enjoy a hassle-free experience where transactions are simple, secure, and swift. Start exploring today!"
+              ghLink="https://github.com/davidojo1144/D-Clutter-Project"
+              demoLink="https://d-clutter-project.vercel.app/"
+            />
+          </Col>
+
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={techgiant}
+              isBlog={false}
+              title="Tech Giant"
+              description="Welcome to DClutter – your go-to platform for buying and selling with ease! Whether you're decluttering your space or searching for hidden gems, DClutter connects you seamlessly. Enjoy a hassle-free experience where transactions are simple, secure, and swift. Start exploring today!"
+              ghLink="https://github.com/davidojo1144/D-Clutter-Project"
+              demoLink="https://d-clutter-project.vercel.app/"
+            />
+          </Col>
+
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={skillplatform}
+              isBlog={false}
+              title="Skill Acquisition"
+              description="Welcome to DClutter – your go-to platform for buying and selling with ease! Whether you're decluttering your space or searching for hidden gems, DClutter connects you seamlessly. Enjoy a hassle-free experience where transactions are simple, secure, and swift. Start exploring today!"
+              ghLink="https://github.com/davidojo1144/D-Clutter-Project"
+              demoLink="https://d-clutter-project.vercel.app/"
+            />
+          </Col>
+
         <Col md={4} className="project-card">
             <ProjectCard
               imgPath={clutter}
